@@ -42,7 +42,7 @@ the `text` directory. More detailed steps:
   - Copy `0000-template.md` to `text/0000-my-rfc-name.md` (where `my-rfc-name` is descriptive. don't assign an RFC number yet).
   - Fill in the RFC, and open the pull request
 
-We’ll discuss things in the PR, and then either merge or not.
+We’ll discuss things in the PR, and then either merge or not. The RFC text will likely change as we discuss it; those changes should be added to the PR as additional commits without squashing or rebasing to keep a record of the them.
 
 
 # Drawbacks
