@@ -24,8 +24,8 @@ We have already created a [conventions document][conventions] to help newcomers 
 # Detailed design
 [design]: #detailed-design
 
-**The contents of this section will make up the bulk of the RFC
-repository's README after this RFC is accepted.**
+*The contents of this section will make up the bulk of the RFC
+repository's README after this RFC is accepted.*
 
 The nix RFC process is modelled after [the one Rust uses][rust-rfc-process] but adjusted to be lighter weight. Credit for the lightness also goes to the [intermezzOS project's RFC process][intermezzos-rfcs].
 
