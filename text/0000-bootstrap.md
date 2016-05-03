@@ -74,7 +74,7 @@ where we need to make a decision to move forward.
 
 ## More process
 
-We could instead opt for a heaver process. It is most likely not warranted for
+We could instead opt for a heavier process. It is most likely not warranted for
 the size of the project.
 
 # Unresolved questions
