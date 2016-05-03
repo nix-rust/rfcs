@@ -18,10 +18,9 @@ there's been stagnation. Some examples:
 - the future of nix, including crate organization
   (https://github.com/nix-rust/nix/issues/190)
 
-Implementing an RFC process will give us a clear place to discuss those
-changes. Just as importantly, there will be a clear document stating what is
-being proposed. This way one doesn't need to read an entire comment thread to
-find out what the actual proposal is.
+The RFC process gives a place to discuss and document major design
+decisions. This provides readers with both the final decision in a clean form
+and the discussion that lead up to it.
 
 We have already created a [conventions document][conventions] to help newcomers
 to the library understand how nix approaches its APIs. Larger additions to that
