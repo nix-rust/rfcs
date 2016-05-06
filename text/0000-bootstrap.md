@@ -80,4 +80,4 @@ the size of the project.
 # Unresolved questions
 [unresolved]: #unresolved-questions
 
-What sections should be in the template? The same as in this RFC?
+None.
