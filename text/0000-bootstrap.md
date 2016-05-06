@@ -81,4 +81,5 @@ the size of the project.
 # Unresolved questions
 [unresolved]: #unresolved-questions
 
-None.
+How do we accept an RFC? Consensus among maintainers? A quorum of
+maintainers? If so, how many? Do we signal it in comments on the PR?
