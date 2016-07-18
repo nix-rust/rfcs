@@ -1,6 +1,6 @@
 - Start Date: 2016-07-13
-- RFC PR: (leave this empty)
-- Nix Issue: (leave this empty)
+- RFC PR: https://github.com/nix-rust/rfcs/pull/3
+- Nix Issue: https://github.com/nix-rust/nix/issues/390
 
 # Summary
 [summary]: #summary
